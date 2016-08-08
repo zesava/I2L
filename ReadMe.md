@@ -1,6 +1,7 @@
 # Simple app for image engraving using GRBL
 
 ![Screenshot](scr/scr1.png)
+![Screenshot](scr/scr2.png)
  
  The work principle is:
 
