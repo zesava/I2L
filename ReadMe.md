@@ -1,4 +1,4 @@
-# Simple app for image engraving using GRBL
+# Simple app for laser image engraving using GRBL
 
 ![Screenshot](scr/scr1.png)
 ![Screenshot](scr/scr2.png)
